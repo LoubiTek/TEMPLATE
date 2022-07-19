@@ -60,7 +60,7 @@ void GAME()
   PLAYER(); // SHOW PLAYER
   TITLE(); // SHOW TITLE
   SWORD(); // SHOW SWORD
-  GUN(); // SHOW GUN
+  //GUN(); // SHOW GUN
 }
 
 // CREDIT | CREDIT

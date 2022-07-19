@@ -97,7 +97,7 @@ void GUN()
 {
   // WEAPON GUN | ARME PISTOLER
   rect(512,0,30,20);
-  image(GUN_IMG,512,0,30,20);
+  //image(GUN_IMG,512,0,30,20);
 }
 
 // KeyPressed

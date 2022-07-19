@@ -6,7 +6,7 @@ PImage PLAYER_TWO_IMG;
 PImage LIFE_IMG;
 PImage VFX_IMG;
 PImage SWORD_IMG;
-PImage GUN_IMG;
+//PImage GUN_IMG;
 
 void IMAGES()
 {
@@ -17,5 +17,5 @@ void IMAGES()
   LIFE_IMG = loadImage("images/LIFE.png");
   VFX_IMG = loadImage("images/VFX.png");
   SWORD_IMG = loadImage("images/SWORD.png");
-  GUN_IMG = loadImage("images/GUN.png");
+  //GUN_IMG = loadImage("images/GUN.png");
 }
